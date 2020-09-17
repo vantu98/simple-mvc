@@ -1,1 +1,1 @@
-abc
+This is a simple MVC structure with **pure PHP** 
