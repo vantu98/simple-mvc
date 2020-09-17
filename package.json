@@ -1,0 +1,25 @@
+{
+  "name": "MVC",
+  "version": "1.0.0",
+  "description": "This is a simple MVC structure with **pure PHP**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vantu98/simple-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vantu98/simple-mvc/issues"
+  },
+  "homepage": "https://github.com/vantu98/simple-mvc#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.5",
+    "tailwindcss": "^1.8.10"
+  }
+}
